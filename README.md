@@ -1,5 +1,6 @@
-# Pepper#
-## The hackAD Challenge for Virtual Good. An assistant that empowers you to stay productive! ##
+# Pepper
+## The hackAD Challenge for Virtual Good. 
+## An assistant that empowers you to stay productive! 
 __Mobile App Features__
 * Social Media Time Manager: 
     * Pings the users constantly about the time spent on apps like IG, FB, YouTube, etc by narrating the important to-dos left in the schedule. Users will have the option to have their friends record voice messages for reminders to get a personal touch. The user will be able to choose between different modes/intensity:
