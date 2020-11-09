@@ -15,5 +15,9 @@ __Mobile App Features__
     * Helps maintain a good mental and physical health of the user by constant reminders after class or long meetings to drink water, move around, stretch
     * After every day completes, Faiza or Pepper would dance around and say that you did it, woohoo!	
     * When you are done with your entire day of schedule, the system ask you if you will like to be connected to another person who also has everything done, so you can make new friends in the university base of the system random pairing
+        * When they are paired, the app gives them questions prompts to have meaningful conversations rather than small talk
     * Gives out notifications if there’s free food on campus
+
+* Rewards
+    * For every good activity (finishing assignments before deadline, having low social media time, etc), the user gets Wellness points which can later be redeemed for cool stuff
 
